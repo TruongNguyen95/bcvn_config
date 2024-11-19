@@ -1,7 +1,7 @@
 {
   "app_config": {
-    "apk_url": "https://github.com/TruongNguyen95/bcvn_config/releases/download/ver0.0.4/app-release.apk",
-    "version_build": 4,
+    "apk_url": "https://github.com/TruongNguyen95/bcvn_config/releases/download/ver0.0.5/app-release.apk",
+    "version_build": 5,
     "force_update": true
   }
 }
